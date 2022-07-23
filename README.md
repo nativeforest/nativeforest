@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 <img style="object-fit: cover;" align="center"
       src="./assets/img/programing.jpeg"
-      alt="andres zambrano lizarazo" height="50%" width="100%" />
+      alt="andres zambrano lizarazo" height="20rem" width="100%" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
