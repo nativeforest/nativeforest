@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
-
 - ⚡ Portfolio: https://andev.dev/
 
 <br>
