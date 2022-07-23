@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Portfolio: https://andev.dev/
 
 <br>
-<img align="center"
+<img style="object-fit: cover" align="center"
       src="./assets/img/programing.jpeg"
       alt="andres zambrano lizarazo" height="90%" width="100%" />
 
