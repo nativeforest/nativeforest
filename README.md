@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Portfolio: https://andev.dev/
 
 <br>
-
+<img align="center"
+      src="./assets/img/programing.jpeg"
+      alt="andres zambrano lizarazo" height="30" width="40" />
+      
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/andres-zambrano-lizarazo-4a2129192" target="_blank"><img align="center"
